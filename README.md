@@ -1,110 +1,59 @@
-# Hi, I'm Harish 👋
+# Harish Bodapati 👋
 
-🚀 DevOps Engineer | AWS | Kubernetes (EKS) | Terraform | CI/CD
+🚀 DevOps Engineer | AWS | Kubernetes (EKS) | Terraform
 
-📍 Hyderabad, India 
-📧 [v.harish.bodapati@gmail.com](mailto:v.harish.bodapati@gmail.com) 
-🔗 LinkedIn: https://www.linkedin.com/in/vkharishb-devopsaws 
-💻 GitHub: https://github.com/vkharishb 
-'''
+💡 Building production-grade cloud platforms with automation, scalability & reliability
 
 ---
 
-## 🚀 About Me
+✔ 5+ years in DevOps & Cloud Engineering
+✔ Reduced deployment time by 25% | MTTR from hours → minutes
+✔ Built scalable systems supporting 200K+ users with 99.99% uptime
 
-DevOps Engineer with **5+ years of experience** building and operating **production-grade cloud platforms on AWS**.
+---
 
-I specialize in:
-
-* Kubernetes (EKS) platform engineering
-* Infrastructure as Code (Terraform)
-* CI/CD automation & DevSecOps
-* Observability & reliability engineering
-
-✔ Improved deployment speed and reduced MTTR
-✔ Designed scalable, highly available systems
-✔ Built end-to-end DevOps pipelines for microservices
+📍 Hyderabad, India
+📧 [v.harish.bodapati@gmail.com](mailto:v.harish.bodapati@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/vkharishb-devopsaws)
+💻 [GitHub](https://github.com/vkharishb)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud & Platforms**
-AWS (EKS, EC2, S3, IAM, VPC, Auto Scaling, CloudWatch), Azure (Basics)
-
-**Infrastructure as Code**
-Terraform (Modules, Remote State, Workspaces)
-
-**Containers & Orchestration**
-Docker, Kubernetes, Helm
-
-**CI/CD & GitOps**
-Jenkins, GitHub Actions, Azure DevOps, ArgoCD (Basic)
-
-**Monitoring & Observability**
-Prometheus, Grafana, CloudWatch, ELK (Basic)
-
-**Security & DevSecOps**
-SonarQube, Black Duck, Snyk (Basic), IAM
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 🏗️ What I Build
 
-### DevOps Engineer – Independent Projects (2024 – Present)
-
-* Built **production-grade EKS clusters** using Terraform
-* Developed **end-to-end CI/CD pipelines** for microservices
-* Implemented **monitoring with Prometheus & Grafana**
-* Deployed applications using Helm with zero downtime
-
-### DevOps Engineer – Accenture (2022 – 2024)
-
-* Reduced deployment time by **25%** using optimized CI/CD pipelines
-* Managed **high-availability Kubernetes (EKS) platform**
-* Built reusable Terraform modules → **40% faster infra setup**
-* Improved reliability by reducing MTTR using observability tools
-* Integrated DevSecOps tools to improve code quality & security
-
-### DevOps Engineer – Lince Soft Solutions (2018 – 2022)
-
-* Saved **25+ hours/week** by automating CI/CD pipelines
-* Reduced release defects by **70%** via pipeline modernization
-* Managed AWS infrastructure for scalable systems
-* Achieved **99.99% uptime** supporting 200K+ users
+* 🔹 Production-grade AWS infrastructure using Terraform
+* 🔹 Kubernetes (EKS) platforms with autoscaling & high availability
+* 🔹 CI/CD pipelines for microservices (GitHub Actions, Jenkins)
+* 🔹 Observability stacks (Prometheus, Grafana)
+* 🔹 DevSecOps pipelines with SonarQube & Black Duck
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 DevSecOps EKS Platform
-
-* End-to-end Kubernetes platform with CI/CD and monitoring
-* Includes autoscaling, secure networking, and observability
-
-### 🔹 Terraform AWS Modules
-
-* Production-ready reusable modules (VPC, EC2, EKS)
-* Supports multi-environment deployments (dev/QA/prod)
-
-### 🔹 Secure CI/CD Pipeline
-
-* Multi-service deployment pipelines
-* Integrated SonarQube & Black Duck for security
-
-### 🔹 Kubernetes Microservices Deployment
-
-* 10+ microservices deployed on EKS using Helm
-* Zero-downtime releases with autoscaling
+* 🔹 **DevSecOps EKS Platform** – End-to-end Kubernetes platform with CI/CD, autoscaling & monitoring
+* 🔹 **Terraform AWS Modules** – Reusable VPC, EC2, EKS modules for multi-environment deployments
+* 🔹 **Secure CI/CD Pipeline** – Automated pipelines with security gates and multi-service deployments
+* 🔹 **Kubernetes Microservices Deployment** – 10+ services with Helm, zero-downtime releases
 
 ---
 
-## 📊 Key Achievements
+## 📊 GitHub Stats
 
-* 🏆 Accenture Excellence Award for DevOps delivery
-* 📉 Reduced infrastructure cost using autoscaling strategies
-* ⚡ Reduced MTTR from hours to minutes
-* 🚀 Improved deployment reliability across environments
+![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkharishb\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkharishb\&layout=compact)
 
 ---
 
@@ -116,8 +65,9 @@ SonarQube, Black Duck, Snyk (Basic), IAM
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Open to Opportunities
 
-If you're working on **DevOps, Cloud, or Platform Engineering**, feel free to connect or collaborate.
+Actively looking for **DevOps / SRE / Platform Engineering roles**
 
-👉 Open to DevOps / SRE / Platform Engineering roles
+📩 Reach me: [v.harish.bodapati@gmail.com](mailto:v.harish.bodapati@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/vkharishb-devopsaws)

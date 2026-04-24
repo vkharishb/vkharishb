@@ -2,10 +2,10 @@
 
 🚀 DevOps Engineer | AWS | Kubernetes (EKS) | Terraform | CI/CD
 
-📍 Hyderabad, India \n
-📧 [v.harish.bodapati@gmail.com](mailto:v.harish.bodapati@gmail.com) \n
-🔗 LinkedIn: https://www.linkedin.com/in/vkharishb-devopsaws \n
-💻 GitHub: https://github.com/vkharishb \n
+📍 Hyderabad, India 
+📧 [v.harish.bodapati@gmail.com](mailto:v.harish.bodapati@gmail.com) 
+🔗 LinkedIn: https://www.linkedin.com/in/vkharishb-devopsaws 
+💻 GitHub: https://github.com/vkharishb 
 
 ---
 

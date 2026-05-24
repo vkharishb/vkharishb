@@ -1,4 +1,4 @@
-# Harish Bodapati 👋
+<h1 align="center"># Harish Bodapati 👋</h1>
 
 🚀 DevOps Engineer | AWS | Kubernetes (EKS) | Terraform
 

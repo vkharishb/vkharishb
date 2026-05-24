@@ -84,7 +84,7 @@ DevOps Engineer with **5+ years of experience** designing and automating cloud-n
 | [**EKS Production Platform**](https://github.com/vkharishb/eks-production-platform) | Production-grade EKS cluster with secure networking, autoscaling, and HA architecture | EKS · Terraform · Kubernetes |
 | [**Terraform AWS Modules**](https://github.com/vkharishb/terraform-aws-modules) | Reusable modules for multi-AZ VPCs, EKS, IAM, and S3. Reduced misconfigurations by 70% | Terraform · AWS · IaC |
 | [**Job Hunting Pipeline**](https://github.com/vkharishb/Job-Hunting-pipeline) | AI-powered daily job search — reads your resume, scores roles, emails an Excel report | GitHub Actions · Python · OpenRouter |
-| [**Secure CI/CD Pipeline**](https://github.com/vkharishb/Secure-CI-CD-Pipeline) | Pipelines with SonarQube quality gates and OWASP Dependency Check scanning — zero pre-production defects | Jenkins · SonarQube ·OWASP Dependency Check
+| [**Secure CI/CD Pipeline**](https://github.com/vkharishb/Secure-CI-CD-Pipeline) | Pipelines with SonarQube quality gates and OWASP Dependency Check scanning — zero pre-production defects | Jenkins and GHA · SonarQube ·OWASP Dependency Check
 | **Microservices on Kubernetes** | 10+ services on EKS with Helm, HPA, and zero-downtime releases. Rollout risk reduced by ~80% | Kubernetes · Helm · CI/CD |
 | **Deployment Metrics Platform** | Centralised Grafana + Prometheus observability with Python automation and MySQL storage | Grafana · Prometheus · Python |
 

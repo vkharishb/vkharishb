@@ -86,7 +86,7 @@ DevOps Engineer with **5+ years of experience** designing and automating cloud-n
 | [**Job Hunting Pipeline**](https://github.com/vkharishb/Job-Hunting-pipeline) | AI-powered daily job search — reads your resume, scores roles, emails an Excel report | GitHub Actions · Python · OpenRouter |
 | [**Secure CI/CD Pipeline**](https://github.com/vkharishb/Secure-CI-CD-Pipeline) | Pipelines with SonarQube quality gates and OWASP Dependency Check scanning — zero pre-production defects | Jenkins and GHA · SonarQube ·OWASP Dependency Check
 | **Microservices on Kubernetes** | 10+ services on EKS with Helm, HPA, and zero-downtime releases. Rollout risk reduced by ~80% | Kubernetes · Helm · CI/CD |
-| **Deployment Metrics Platform** | Centralised Grafana + Prometheus observability with Python automation and MySQL storage | Grafana · Prometheus · Python |
+| [**Centralised Observability & Deployment Analytics Platform**](https://github.com/vkharishb/CODAP) | Centralised Grafana + Prometheus observability with Python automation and MySQL storage | Grafana · Prometheus · Python |
 
 ---
 
